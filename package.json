@@ -19,6 +19,11 @@
     "expo vector-icons",
     "unified"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JeffreyChix/react-native-unified-icons.git"
+  },
+  "homepage": "https://github.com/JeffreyChix/react-native-unified-icons.git",
   "peerDependencies": {
     "@expo/vector-icons": ">=14.0.0",
     "react": ">=18.0.0",
